@@ -1,6 +1,10 @@
 ### Hello, I'm Radu 👋
 
-# Work Experience
+Find me on:
+- [LinkedIn](https://www.linkedin.com/in/radu-ioan-mihai/)
+- [ResearchGate](https://www.researchgate.net/profile/Radu-Ioan-Mihai)
+
+## Work Experience
 
 **IT TRAD CONSULTING**
 (*Jan. 2022 – Mar. 2022 & July 2022 – Oct. 2022*)
@@ -16,6 +20,42 @@
 (*Aug. 2016 – Present*)
 - Position: Founder, Web Editor, Content Creator, and PR Specialist
 - Technologies/Programming Languages: WordPress
+
+## Education
+
+**Master of Science in Natural Language Processing** \
+*University of Bucharest* \
+*October 2023 - July 2025*  
+
+**Bachelor of Computer Science** \
+*University of Bucharest* \
+*October 2020 - July 2023* 
+
+## Projects
+
+### Python
+- Romanian Breaking News Crawler (soon to be uploaded)
+- Romanian Map Generator (soon to be uploaded)
+- World Map Generator (soon to be uploaded)
+- [Alien Language Classification](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/IA%20-%20Artificial%20Intelligence/ML/Kaggle)
+- [Folder Synchronization](https://github.com/rimihai2001/folder-sync)
+
+### Angular
+- [UpTask](https://github.com/rimihai2001/UpTask)
+- [Underground Monsters Romania - ALPHA VERSION](https://github.com/rimihai2001/UMR-Angular)
+- [Good Vibrations](https://github.com/rimihai2001/Good-Vibrations)
+
+### Unity
+- [Solaris](https://github.com/rimihai2001/Solaris)
+- [Race Against Time](https://github.com/rimihai2001/Game-Dev-3DRunner)
+
+### Others
+- [E-Ticketing Platform (Java)](https://github.com/rimihai2001/E-Ticketing_Platform_PAO)
+- [Concerts Management Application (ASP.NET)](https://github.com/rimihai2001/Concerts-DAW)
+- [Bookshop Database (PL/SQL)](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/SGBD%20-%20Database%20Management%20System/Project)
+- [Shell (C)](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/SO%20-%20Operating%20Systems/Project/Shell_Version2.c)
+- [Graph Alhorithms Class (C++)](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/AF%20-%20Fundamental%20Algorithms/Homework/Algorithms.cpp)
+
 
 
 <!--
