@@ -39,6 +39,7 @@ Find me on:
 - World Map Generator (soon to be uploaded)
 - [Alien Language Classification](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/IA%20-%20Artificial%20Intelligence/ML/Kaggle)
 - [Folder Synchronization](https://github.com/rimihai2001/folder-sync)
+- [Solving Satisfiability Problems with Membrane Algorithms](https://github.com/rimihai2001/MFIS-QEPS/blob/main/QEPS.ipynb)
 
 ### Angular
 - [UpTask](https://github.com/rimihai2001/UpTask)
@@ -50,11 +51,11 @@ Find me on:
 - [Race Against Time](https://github.com/rimihai2001/Game-Dev-3DRunner)
 
 ### Others
-- [E-Ticketing Platform (Java)](https://github.com/rimihai2001/E-Ticketing_Platform_PAO)
-- [Concerts Management Application (ASP.NET)](https://github.com/rimihai2001/Concerts-DAW)
-- [Bookshop Database (PL/SQL)](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/SGBD%20-%20Database%20Management%20System/Project)
-- [Shell (C)](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/SO%20-%20Operating%20Systems/Project/Shell_Version2.c)
-- [Graph Alhorithms Class (C++)](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/AF%20-%20Fundamental%20Algorithms/Homework/Algorithms.cpp)
+- [E-Ticketing Platform](https://github.com/rimihai2001/E-Ticketing_Platform_PAO) (Java)
+- [Concerts Management Application](https://github.com/rimihai2001/Concerts-DAW) (ASP.NET)
+- [Bookshop Database](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/SGBD%20-%20Database%20Management%20System/Project) (PL/SQL)
+- [Shell](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/SO%20-%20Operating%20Systems/Project/Shell_Version2.c) (C)
+- [Graph Alhorithms Class](https://github.com/rimihai2001/UniBuc-FMI/blob/main/2nd%20Year/AF%20-%20Fundamental%20Algorithms/Homework/Algorithms.cpp) (C++)
 
 
 
