@@ -33,9 +33,11 @@ Find me on:
 
 ## Projects
 
+### [Journalism Projects](https://github.com/rimihai2001/Journalism-Projects/tree/main)
+
 ### Python
 - Romanian Breaking News Crawler (soon to be uploaded)
-- Romanian Map Generator (soon to be uploaded)
+- [Romanian Map Generator](https://github.com/rimihai2001/Journalism-Projects/blob/main/Libertatea/Harta%20Sanselor/Scraping/Map_Generator.ipynb)
 - World Map Generator (soon to be uploaded)
 - [Alien Language Classification](https://github.com/rimihai2001/UniBuc-FMI/tree/main/2nd%20Year/IA%20-%20Artificial%20Intelligence/ML/Kaggle)
 - [Folder Synchronization](https://github.com/rimihai2001/folder-sync)
