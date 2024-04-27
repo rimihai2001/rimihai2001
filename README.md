@@ -34,6 +34,8 @@ Find me on:
 ## Projects
 
 ### [Journalism Projects](https://github.com/rimihai2001/Journalism-Projects/tree/main)
+- [Map of Chances](https://github.com/rimihai2001/Journalism-Projects/tree/main/Libertatea/Harta%20Sanselor)
+- [Scoala9](https://github.com/rimihai2001/Journalism-Projects/tree/main/Scoala9)
 
 ### Python
 - Romanian Breaking News Crawler (soon to be uploaded)
